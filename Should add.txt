@@ -1,0 +1,11 @@
+ABOUT ME page:
+  Add Tell me about yourself
+  Add Skills Projects Internship
+RESUME page:
+  Summary
+  Professional Experience
+CERTIFICATIONS page:
+  Add Certificates
+  
+Add Totla page views 
+Add Counter
