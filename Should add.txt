@@ -1,9 +1,12 @@
 ABOUT ME page:
   Add Tell me about yourself
-  Add Skills(based on LinkedIn) Projects Internship
+  Add Skills(based on LinkedIn)Internship
+  
 RESUME page:
   Summary
   Professional Experience
+
 CERTIFICATIONS page:
   Add Certificates
-  
+
+Add PROJECTS page(similar to Certifications)
