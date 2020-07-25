@@ -8,7 +8,7 @@ RESUME page:
 	Add Resume
 
 CERTIFICATIONS page:
-	Add Certificates
+	Add Certificates and links to it
 
 PROJECTS page:
 	Add Projects
