@@ -10,3 +10,5 @@ CERTIFICATIONS page:
   Add Certificates
 
 Add PROJECTS page(similar to Certifications)
+
+Add Resume
