@@ -1,5 +1,3 @@
-// number count for stats, using jQuery animate
-
 
 // Preloader 
 $(document).ready(function() {
