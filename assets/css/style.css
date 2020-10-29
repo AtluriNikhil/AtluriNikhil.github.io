@@ -10,7 +10,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") top right no-repeat;
+  background: #040404 url("../img/bg4.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -1009,7 +1009,7 @@ section .container {
         top: 0;
         width: 51%;
         height: 100%;
-        background: #244163;
+        background: #072540;
         z-index: 1000;
         -webkit-transform: translateX(0);  
         -ms-transform: translateX(0);  
