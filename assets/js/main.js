@@ -9,6 +9,15 @@ $(document).ready(function() {
   
 });
 
+// Typed JS
+var typed = new Typed('.nikhilelement', {
+  strings: ["Data Science Enthusiast.", "Competitive Programmer."],
+  typeSpeed: 45,
+  backSpeed: 30,
+  loop: true
+});
+
+
 // Email JS
 var myform = $("form#myform");
 myform.submit(function(event){
