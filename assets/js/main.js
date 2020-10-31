@@ -5,8 +5,16 @@ $(document).ready(function() {
   setTimeout(function(){
     $('body').addClass('loaded');
     $('h1').css('color','#222222');
-  }, 1000);
+  }, 2500);
   
+});
+
+// Typed.JS
+var typed = new Typed('.nikhilelement', {
+  strings: ["Data Science Enthusiast.", "Competitive Programmer."],
+  typeSpeed: 45,
+  backSpeed: 30,
+  loop: true
 });
 
 // Email JS
