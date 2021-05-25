@@ -11,9 +11,9 @@ $(document).ready(function() {
 
 // Typed.JS
 var typed = new Typed('.nikhilelement', {
-  strings: ["Data Science Enthusiast.", "Competitive Programmer."],
-  typeSpeed: 45,
-  backSpeed: 30,
+  strings: ["Full stack developer.", "Data Science Enthusiast.", "Competitive Programmer."],
+  typeSpeed: 60,
+  backSpeed: 45,
   loop: true
 });
 
@@ -134,8 +134,8 @@ myform.submit(function(event){
 
   
   $('[data-toggle="counter-up"]').counterUp({
-    delay: 2.5,
-    time: 2700
+    delay: 3,
+    time: 1000
   });
 
 
