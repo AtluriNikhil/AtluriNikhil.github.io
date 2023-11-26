@@ -11,7 +11,7 @@ $(document).ready(function() {
 
 // Typed.JS
 var typed = new Typed('.nikhilelement', {
-  strings: ["Full stack developer.", "Data Science Enthusiast.", "Competitive Programmer."],
+  strings: ["Competitive Programmer.", "Big Data Engineer.", "Data Science Enthusiast."],
   typeSpeed: 60,
   backSpeed: 45,
   loop: true
@@ -22,8 +22,8 @@ var myform = $("form#myform");
 myform.submit(function(event){
   event.preventDefault();
 
-  var service_id = "default_service";
-  var template_id = "template_Ifmvsoca";
+  var service_id = "website";
+  var template_id = "template_52xp87s";
 
   myform.find("button").text("Sending...");
   emailjs.sendForm(service_id,template_id,myform[0])
