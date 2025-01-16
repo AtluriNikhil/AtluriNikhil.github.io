@@ -11,9 +11,9 @@ $(document).ready(function() {
 
 // Typed.JS
 var typed = new Typed('.nikhilelement', {
-  strings: ["Competitive Programmer.", "Big Data Engineer.", "Data Science Enthusiast."],
-  typeSpeed: 60,
-  backSpeed: 45,
+  strings: ["Backend Developer.", "Big Data Engineer.", "Data Science Enthusiast."],
+  typeSpeed: 75,
+  backSpeed: 60,
   loop: true
 });
 
