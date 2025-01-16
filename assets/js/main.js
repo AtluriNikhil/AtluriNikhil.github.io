@@ -23,7 +23,7 @@ myform.submit(function(event){
   event.preventDefault();
 
   var service_id = "website";
-  var template_id = "template_52xp87s";
+  var template_id = "contact";
 
   myform.find("button").text("Sending...");
   emailjs.sendForm(service_id,template_id,myform[0])
